@@ -1,0 +1,81 @@
+header {
+	background-color: #A97C72;
+	display: flex;
+	justify-content: space-between;
+}
+body {
+	font-family: sans-serif;
+	font-weight: bold;
+}
+a{
+	text-decoration: none;
+}
+.logo-png {
+	max-width: 20%;
+
+}
+.presentacion-main {
+	display: flex;
+}
+.presentacion {
+	display: flex;
+}
+.logo-completo{
+	min-width: 
+	50%;
+}
+.logo-completo img{
+	width: 100%;
+
+}
+.como-comprar{
+	display: flex;
+	justify-content: space-between;
+}
+.como-comprar-img img{
+	width: 100%;
+}
+.boda .como-comprar-img {
+	width: 50%;
+}
+.boda {
+	
+	margin-right: 10px;
+
+}
+.pasos{
+	min-width: 50%;
+	margin-left: 10px;
+	display: flex;
+	justify-content: space-between;
+}
+.paso{
+	
+
+}
+.menu-general {
+	display: flex;
+	justify-content: space-between;
+	border: 10px solid red;
+	
+}
+.menu{
+
+	max-width:15%;
+
+}
+.menu img{
+width: 100%;
+}
+.contenedor {
+	background-color: #E7CCC6;
+}
+
+footer {
+	display: flex;
+	background-color: #8E8584;
+}
+
+.trabajando {
+	background: red;
+}
